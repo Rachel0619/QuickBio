@@ -29,13 +29,13 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/emarco177/ice_breaker.git
+  git clone https://github.com/Rachel0619/QuickBio.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd ice_breaker
+  cd QuickBio
 ```
 
 Install dependencies
